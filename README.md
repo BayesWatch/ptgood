@@ -1,7 +1,7 @@
 # Planning to Go Out-of-Distribution
 [<img src="https://img.shields.io/badge/license-Apache_2.0-blue">](https://github.com/tinkoff-ai/CORL/blob/main/LICENSE)
 
-Official repository for the paper "Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement learning.
+Official repository for the paper "Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement learning".
 
 Find the paper [here](https://arxiv.org/abs/2310.05723).
 
